@@ -10,7 +10,7 @@ sites:
   - name: Cache
     url: http://35.89.131.209:6379
   - name: Indexer
-    url: http://127.0.0.1:6000/nfts/get?address=0xd8da6bf26964af9d7eed9e03e53415d37aa96045
+    url: http://35.89.131.209:6000/nfts/get?address=0xd8da6bf26964af9d7eed9e03e53415d37aa96045
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
