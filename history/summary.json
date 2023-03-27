@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 115,
-    "timeWeek": 115,
-    "timeMonth": 115,
-    "timeYear": 115,
+    "time": 94,
+    "timeDay": 94,
+    "timeWeek": 94,
+    "timeMonth": 94,
+    "timeYear": 94,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 948,
-    "timeDay": 948,
-    "timeWeek": 948,
-    "timeMonth": 948,
-    "timeYear": 948,
+    "time": 926,
+    "timeDay": 926,
+    "timeWeek": 926,
+    "timeMonth": 926,
+    "timeYear": 926,
     "dailyMinutesDown": {}
   },
   {
@@ -41,24 +41,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/35.89.131.209.ico",
     "slug": "cache",
     "status": "down",
-    "uptime": "9.67%",
-    "uptimeDay": "9.67%",
-    "uptimeWeek": "9.67%",
-    "uptimeMonth": "9.67%",
-    "uptimeYear": "9.67%",
+    "uptime": "0.48%",
+    "uptimeDay": "0.48%",
+    "uptimeWeek": "0.48%",
+    "uptimeMonth": "0.48%",
+    "uptimeYear": "0.48%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-27": 0
+      "2023-03-27": 5
     }
   },
   {
     "name": "Indexer",
-    "url": "http://127.0.0.1:6000/nfts/get?address=0xd8da6bf26964af9d7eed9e03e53415d37aa96045",
-    "icon": "https://icons.duckduckgo.com/ip3/127.0.0.1.ico",
+    "url": "http://35.89.131.209:6000/nfts/get?address=0xd8da6bf26964af9d7eed9e03e53415d37aa96045",
+    "icon": "https://icons.duckduckgo.com/ip3/35.89.131.209.ico",
     "slug": "indexer",
     "status": "down",
     "uptime": "0.00%",
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-27": 0
+      "2023-03-27": 5
     }
   }
 ]
