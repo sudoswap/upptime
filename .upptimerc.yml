@@ -7,6 +7,8 @@ sites:
     url: https://sudoswap.xyz
   - name: Sudo Backend
     url: https://sudoapi.xyz/v1/health
+  - name: Mainnet Indexer
+    url: http://34.168.222.152:6000/nfts/get?address=0xd8da6bf26964af9d7eed9e03e53415d37aa96045
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
