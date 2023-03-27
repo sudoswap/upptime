@@ -14,7 +14,7 @@ sites:
     url: http://35.89.131.209:8545
     headers:
       - "Content-Type: application/json"
-    body: '{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest", false],"id":1}
+    body: '{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest", false],"id":1}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
