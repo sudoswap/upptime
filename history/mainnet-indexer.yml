@@ -1,7 +1,7 @@
-url: http://34.168.222.152:6000/nfts/get?address=0xd8da6bf26964af9d7eed9e03e53415d37aa96045
+url: http://34.168.222.152:6000/nfts/get?address=0x458d1E307CcA61C0Bea82f7663F66831175EcDe8&limit=1
 status: up
 code: 200
-responseTime: 1857
-lastUpdated: 2023-03-27T23:02:20.053Z
+responseTime: 328
+lastUpdated: 2023-03-28T00:21:27.707Z
 startTime: Mon Mar 27 2023 21:10:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
