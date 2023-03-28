@@ -8,7 +8,7 @@ sites:
   - name: Sudo Backend
     url: https://sudoapi.xyz/v1/health
   - name: Mainnet Indexer
-    url: http://34.168.222.152:6000/nfts/get?address=0xd8da6bf26964af9d7eed9e03e53415d37aa96045
+    url: http://34.168.222.152:6000/nfts/get?address=0x458d1E307CcA61C0Bea82f7663F66831175EcDe8&limit=1
   - name: Mainnet Ethereum Node
     method: POST
     url: http://35.89.131.209:8545
