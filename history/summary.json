@@ -40,19 +40,19 @@
     "url": "http://34.168.222.152:6000/nfts/get?address=0xd8da6bf26964af9d7eed9e03e53415d37aa96045&limit=1",
     "icon": "https://icons.duckduckgo.com/ip3/34.168.222.152.ico",
     "slug": "mainnet-indexer-test-query",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1248,
-    "timeDay": 1248,
-    "timeWeek": 1248,
-    "timeMonth": 1248,
-    "timeYear": 1248,
+    "status": "up",
+    "uptime": "97.52%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "97.52%",
+    "time": 940,
+    "timeDay": 940,
+    "timeWeek": 940,
+    "timeMonth": 940,
+    "timeYear": 940,
     "dailyMinutesDown": {
-      "2023-03-28": 0
+      "2023-03-28": 30
     }
   },
   {
