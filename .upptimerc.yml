@@ -8,7 +8,7 @@ sites:
   - name: Sudo API (/health)
     url: https://sudoapi.xyz/v1/health
   - name: Mainnet Indexer (test query)
-    url: http://34.168.222.152:6000/nfts/get?address=0xd8da6bf26964af9d7eed9e03e53415d37aa96045&limit=1
+    url: https://ecstatic-armor-380509.uw.r.appspot.com/status
   - name: Mainnet Ethereum Node (rpc)
     method: POST
     url: http://35.89.131.209:8545
