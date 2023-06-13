@@ -5,8 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Sudo Website V2
     url: https://v2.sudoswap.xyz
-  - name: Sudo API V2 (/pools)
+  - name: Sudo API V2 (pools)
     url: https://v2.sudoapi.xyz/sudo/v2/pools
+  - name: Sudo API V2 (buys)
+    url: https://v2.sudoapi.xyz/sudo/v2/in
+  - name: Sudo API V2 (sells)
+    url: https://v2.sudoapi.xyz/sudo/v2/out
   - name: Sudo Website
     url: https://sudoswap.xyz
   - name: Sudo API (/health)
