@@ -1,7 +1,7 @@
 url: https://sudoapi.xyz/v1/health
-status: up
-code: 200
-responseTime: 646
-lastUpdated: 2023-11-27T23:02:22.625Z
+status: down
+code: 502
+responseTime: 20174
+lastUpdated: 2023-11-28T02:21:20.338Z
 startTime: 2023-03-28T00:27:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
