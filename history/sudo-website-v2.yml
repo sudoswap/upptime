@@ -1,7 +1,7 @@
 url: https://v2.sudoswap.xyz
-status: up
-code: 200
-responseTime: 147
-lastUpdated: 2024-03-15T23:02:25.207Z
+status: down
+code: 500
+responseTime: 1160
+lastUpdated: 2024-03-16T03:50:39.330Z
 startTime: 2023-06-05T17:54:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
