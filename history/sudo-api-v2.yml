@@ -1,7 +1,7 @@
 url: https://v2.sudoapi.xyz/sudo/v2/pools
-status: up
-code: 200
-responseTime: 495
-lastUpdated: 2024-05-31T23:02:29.320Z
+status: down
+code: 500
+responseTime: 129
+lastUpdated: 2024-06-01T06:33:48.123Z
 startTime: 2023-06-14T04:30:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
