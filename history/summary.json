@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 178,
-    "timeWeek": 116,
-    "timeMonth": 234,
+    "timeDay": 43,
+    "timeWeek": 115,
+    "timeMonth": 232,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2024-05-23": 7,
@@ -31,18 +31,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 430,
-    "timeDay": 591,
-    "timeWeek": 417,
-    "timeMonth": 448,
+    "time": 429,
+    "timeDay": 162,
+    "timeWeek": 398,
+    "timeMonth": 445,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2024-06-01": 8,
       "2024-05-25": 270,
       "2024-01-12": 8,
       "2023-12-31": 183,
-      "2023-10-20": 9,
-      "2023-08-22": 16
+      "2023-10-20": 9
     }
   },
   {
@@ -56,9 +55,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 131,
-    "timeDay": 72,
-    "timeWeek": 92,
+    "time": 130,
+    "timeDay": 112,
+    "timeWeek": 104,
     "timeMonth": 298,
     "timeYear": 124,
     "dailyMinutesDown": {
@@ -78,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1303,
-    "timeDay": 702,
-    "timeWeek": 993,
-    "timeMonth": 1191,
-    "timeYear": 1480,
+    "time": 1302,
+    "timeDay": 530,
+    "timeWeek": 976,
+    "timeMonth": 1186,
+    "timeYear": 1478,
     "dailyMinutesDown": {
       "2024-05-25": 270,
       "2024-03-26": 14,
@@ -92,8 +91,7 @@
       "2023-10-22": 8,
       "2023-10-04": 32,
       "2023-10-03": 4,
-      "2023-09-13": 9,
-      "2023-08-22": 15
+      "2023-09-13": 9
     }
   },
   {
@@ -108,10 +106,10 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.91%",
     "time": 763,
-    "timeDay": 145,
-    "timeWeek": 145,
-    "timeMonth": 157,
-    "timeYear": 441,
+    "timeDay": 137,
+    "timeWeek": 144,
+    "timeMonth": 155,
+    "timeYear": 432,
     "dailyMinutesDown": {
       "2024-08-20": 74,
       "2024-05-21": 32,
@@ -119,8 +117,7 @@
       "2023-12-31": 183,
       "2023-11-30": 31,
       "2023-10-23": 60,
-      "2023-08-26": 8,
-      "2023-08-22": 16
+      "2023-08-26": 8
     }
   },
   {
@@ -129,18 +126,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/35.89.131.209.ico",
     "slug": "mainnet-ethereum-node-rpc",
     "status": "down",
-    "uptime": "66.35%",
+    "uptime": "66.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.82%",
-    "time": 151,
+    "uptimeYear": "52.74%",
+    "time": 152,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2024-08-20": 1017,
+      "2024-08-21": 6,
+      "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
