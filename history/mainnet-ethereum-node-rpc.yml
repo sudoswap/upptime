@@ -1,7 +1,7 @@
-url: http://35.89.131.209:8545
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-04T23:02:39.551Z
+url: https://eth-mainnet.g.alchemy.com/v2/$ALCHEMY_API_KEY
+status: up
+code: 200
+responseTime: 242
+lastUpdated: 2024-09-16T22:41:13.222Z
 startTime: 2023-03-28T00:27:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
