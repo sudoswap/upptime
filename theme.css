@@ -1,10 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+
+body {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
 :root {
   --body-background-color: #0d0d12;
   --body-text-color: #eeeeee;
   --card-background-color: #1b1b25;
-  --nav-background-color: #002b29;
+  --nav-background-color: #00000000;
   --nav-border-bottom-color: #ffffff10;
-  --nav-current-border-bottom-color: #1abc9c;
+  --nav-current-border-bottom-color: #b9b9ff;
   --card-border-color: #ffffff10;
   --down-border-left-color: #eb3b5a;
   --down-background-color: #6b1020;
