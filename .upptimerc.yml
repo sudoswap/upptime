@@ -11,7 +11,7 @@ sites:
     url: https://edge.sudoapi.xyz/api/health
   - name: Sudo API V2
     url: https://v2.sudoapi.xyz/sudo/v2/pools
-     headers:
+    headers:
       - "X-Sudo-Dev: $V2_API_DEV_TOKEN"
   - name: Sudo API (/health)
     url: https://sudoapi.xyz/v1/health
