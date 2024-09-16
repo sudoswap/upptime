@@ -30,6 +30,7 @@ status-website:
   cname: status.sudoswap.xyz
   # baseUrl: /
   logoUrl: https://raw.githubusercontent.com/sudoswap/upptime/master/assets/logo_square.svg
+  themeUrl: https://raw.githubusercontent.com/sudoswap/upptime/master/assets/theme.css
   name: sudoswap upptime
   introTitle: "sudoswap.xyz status"
   introMessage: ""
