@@ -12,14 +12,14 @@ sites:
   - name: Sudo API V2
     url: https://v2.sudoapi.xyz/sudo/v2/pools
      headers:
-      - "X-Sudo-Dev: ${{ secrets.V2_API_DEV_TOKEN }}"
+      - "X-Sudo-Dev: $V2_API_DEV_TOKEN"
   - name: Sudo API (/health)
     url: https://sudoapi.xyz/v1/health
   - name: Mainnet Indexer (test query)
     url: https://ecstatic-armor-380509.uw.r.appspot.com/status
   - name: Mainnet Ethereum Node (rpc)
     method: POST
-    url: "https://eth-mainnet.g.alchemy.com/v2/${{ secrets.ALCHEMY_API_KEY }}"
+    url: https://eth-mainnet.g.alchemy.com/v2/$ALCHEMY_API_KEY
     headers:
       - "Content-Type: application/json"
     body: '{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest", false],"id":1}'
