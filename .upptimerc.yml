@@ -29,7 +29,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.sudoswap.xyz
   # baseUrl: /
-  logoUrl: https://raw.githubusercontent.com/sudoswap/upptime/master/static/assets/logo.svg
+  logoUrl: https://raw.githubusercontent.com/sudoswap/upptime/master/assets/logo_square.svg
   name: sudoswap upptime
   introTitle: "sudoswap.xyz status"
   introMessage: ""
