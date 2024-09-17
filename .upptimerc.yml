@@ -23,6 +23,13 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest", false],"id":1}'
+  - name: Defined.fi
+    method: POST
+    url: https://graph.codex.io/graphql
+    headers:
+      - "Authorization:$DEFINED_API_KEY"
+      - "Content-Type: application/json"
+    body: '{ "query": "{ getNetworks { name, id } }"}'
 
 status-website:
   cname: status.sudoswap.xyz
