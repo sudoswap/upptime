@@ -1,7 +1,7 @@
 url: https://ecstatic-armor-380509.uw.r.appspot.com/status
-status: up
-code: 200
-responseTime: 118
-lastUpdated: 2024-11-10T03:44:39.468Z
+status: down
+code: 500
+responseTime: 25780
+lastUpdated: 2024-11-10T13:47:27.517Z
 startTime: 2023-03-28T00:27:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
