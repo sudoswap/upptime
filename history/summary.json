@@ -43,19 +43,19 @@
     "url": "https://edge.sudoapi.xyz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/edge.sudoapi.xyz.ico",
     "slug": "edge-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 220,
-    "timeWeek": 201,
-    "timeMonth": 234,
-    "timeYear": 232,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 230,
+    "timeDay": 180,
+    "timeWeek": 193,
+    "timeMonth": 231,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2024-11-21": 0
+      "2024-11-21": 7
     }
   },
   {
