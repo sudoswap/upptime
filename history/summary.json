@@ -43,9 +43,9 @@
     "url": "https://edge.sudoapi.xyz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/edge.sudoapi.xyz.ico",
     "slug": "edge-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 201,
     "timeMonth": 234,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 0
+    }
   },
   {
     "name": "Sudo API V2",
@@ -159,7 +161,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eth-mainnet.g.alchemy.com.ico",
     "slug": "mainnet-ethereum-node-rpc",
     "status": "up",
-    "uptime": "67.00%",
+    "uptime": "67.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
