@@ -1,7 +1,7 @@
 url: https://v2.sudoapi.xyz/app/status
-status: down
-code: 500
-responseTime: 478
-lastUpdated: 2025-01-12T20:52:43.554Z
+status: up
+code: 200
+responseTime: 10305
+lastUpdated: 2025-01-12T21:00:43.258Z
 startTime: 2023-06-14T04:30:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
